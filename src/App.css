@@ -1,0 +1,11 @@
+.app-container {
+  text-align: center;
+}
+
+.hover-image {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.6s ease;
+}

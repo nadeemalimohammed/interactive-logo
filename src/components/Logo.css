@@ -1,0 +1,7 @@
+.logo-image {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  transition: all 0.4s ease;
+  will-change: transform;
+}
