@@ -6,7 +6,7 @@ const HoverImage = ({ onClick }) => {
 
   return (
     <motion.img
-      src="/assets/logo.svg"
+      src="logo.svg"
       alt="Logo"
       aria-label="Interactive Logo"
       className="hover-image"
