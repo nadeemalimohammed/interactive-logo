@@ -20,7 +20,7 @@ const Logo = () => {
     <>
       {!isExpanded ? (
         <motion.img
-          src="/logo.svg"
+          src="logo.svg"
           alt="Personal Logo"
           className="logo-image"
           loading="lazy"
